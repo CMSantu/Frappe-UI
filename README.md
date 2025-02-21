@@ -1,6 +1,6 @@
 To use the theme.
 
-1.Create a new app in Frappe-bench(If no custom app exists)
+1. Create a new app in Frappe-bench(If no custom app exists)
     bench create new-app <app-name>
 
 2. Install the app in your site
