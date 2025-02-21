@@ -21,10 +21,10 @@ To use the theme.
 ]
 
 6. Now run the below commands
-    bench migrate
-    bench --site your-site-name clear-cache
-    bench --site your-site-name clear-website-cache
-    bench --site your-site-name build
-    bench restart / kill and start the running bench
+    bench migrate, 
+    bench --site your-site-name clear-cache, 
+    bench --site your-site-name clear-website-cache, 
+    bench --site your-site-name build, 
+    bench restart / kill and start the running bench,
 
 7. Or just clone and follow the steps.
